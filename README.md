@@ -28,6 +28,8 @@ mvn test
 ## Future improvements
 
 Implementation of DI framework
+
 Better testing coverage of services
+
 Functional tests of services involving real data
 
